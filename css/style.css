@@ -1,0 +1,29 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0 auto;
+    width: 800px;
+    background-color: #834a29;
+    color: whitesmoke;
+}
+
+.form{
+    background-color: #cc9d05;
+    padding: 25px;
+    border: 5px solid #ffc800;
+    border-radius: 10px;
+}
+
+#submitBtn {
+    background-color: #ffc800;
+    color: #4c360b;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.genshin-card{
+    padding: 18px;
+    margin: 12px auto;
+    background-color: #fff4ac;
+    color: #4c360b;
+}
